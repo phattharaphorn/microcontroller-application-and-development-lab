@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.giphy.com/media/NVNwvgYve28dhzXr6b/giphy.gif" alt="Lab gif"/>
+ <img src="https://media.giphy.com/media/NVNwvgYve28dhzXr6b/giphy.gif" width="300" hight="300" alt="Lab gif"/>
 </p>
 
 # Microcontroller Application and Development - Lab
