@@ -5,8 +5,7 @@
 # Microcontroller Application and Development - Lab
 Microcontroller Application and Development (01076050), Computer Engineering 60 at KMITL.
 
-- Microcontroller Architecture; Digital Input and Output; Serial Communications; Analog-to-Digital Conversion; Digital-to-Analog Conversion; Timers;
-Interrupt Handling; Sensors and Actuators; Displays; Memory Technology; Microcontroller Programming and Development
+- This course is part of the Microcontroller Architecture laboratory Digital Input and Output, Serial Communications, Analog-to-Digital Conversion, Digital-to-Analog Conversion, Timers, Interrupt Handling, and Microcontroller Programming and Development.
 
 ## Lab Directory 
 - [Source code](src)
