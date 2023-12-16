@@ -9,7 +9,7 @@ Microcontroller Application and Development (01076050), Computer Engineering 60 
 
 ## Lab Directory 
 - [Lab 01 LED](lab01)
-- [Lab 02 GPIO](lab02)
+- [Lab 02 GPIO](lab02) 
 - [Lab 03 UART](lab03)
 - [Lab 04 NVIC](lab04)
 - [Lab 04 Special Lab 1](speacial_lab4)
